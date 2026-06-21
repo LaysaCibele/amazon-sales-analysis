@@ -1,9 +1,9 @@
 # 📊 Análise de Vendas da Amazon
 
-##Sobre o Projeto
+#Sobre o Projeto
 
 Este projeto apresenta uma Análise Exploratória de Dados (EDA) utilizando um conjunto de dados de produtos da Amazon. O objetivo é identificar padrões e relações entre preços, avaliações, descontos e categorias de produtos, gerando insights por meio de visualizações e métricas estatísticas.
-
+O dataset está disponível nos arquivos do projeto.
 ## Tecnologias Utilizadas
 
 * Python
